@@ -1,5 +1,5 @@
 ### `Sobre mim`
-Me chamo Valdir Martins, comecei na programação aos 13, e desde então venho trabalhando em projetos diferentes e de níveis diferentes. Conhecimento em tecnologias como Javascript, Typescript, Node.js, MongoDB, PostGreSQL e muitas outras. Familiarizado com metodologias ágeis e organização de projetos. Conhecimento em algoritmos e estrutura de dados. Proativo e em busca de oportunidades para ampliar minha experiência como desenvolvedor.
+Me chamo Valdir Martins, tenho 21 anos, comecei na programação aos 13, e desde então venho trabalhando em projetos diferentes e de níveis diferentes. Conhecimento em tecnologias como Javascript, Typescript, Node.js, MongoDB, PostGreSQL e muitas outras. Familiarizado com metodologias ágeis e organização de projetos. Conhecimento em algoritmos e estrutura de dados. Proativo e em busca de oportunidades para ampliar minha experiência como desenvolvedor.
 
 > #### [Portfolio]()
 > #### [Linkedin](https://www.linkedin.com/in/valdiirmartiins)
