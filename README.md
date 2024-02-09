@@ -25,4 +25,4 @@ Me chamo Valdir Martins, comecei na programação aos 13, e desde então venho t
 
 <br>
 
-> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValdiirMartiins&theme=dark)]
+> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValdiirMartiins&theme=dark)
