@@ -1,7 +1,7 @@
 ### `Sobre mim`
 Me chamo Valdir Martins, tenho 21 anos, tive o primeiro contato com programação aos meus 13 anos, porém comecei a me dedicar nela aos meus 17 anos, e desde então venho estudando sobre e trabalhando em projetos diferentes e de níveis diferentes. 
 
-Conhecimento em tecnologias como HTML, CSS, Javascript, Typescript, React.js, Next.js, Node.js, MongoDB, PostGreSQL e muitas outras. 
+Conhecimento em tecnologias como HTML, CSS, Javascript, Typescript, React.js, Next.js, Sass, Node.js, MongoDB, PostGreSQL e muitas outras. 
 
 Familiarizado com metodologias ágeis e organização de projetos. Conhecimento em algoritmos e estrutura de dados. Proativo e em busca de oportunidades para ampliar minha experiência como desenvolvedor.
 
