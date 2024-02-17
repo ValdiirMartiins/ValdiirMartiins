@@ -1,7 +1,7 @@
 ### `Sobre mim`
 Olá! Sou Valdir Martins, um entusiasta da tecnologia com paixão pelo desenvolvimento de software. Desde cedo, tenho explorado o mundo da programação, buscando constantemente aprender e aprimorar minhas habilidades. Meu foco principal está no desenvolvimento backend, especialmente com Node.js, e tenho experiência em bancos de dados SQL e NoSQL.
 
-No GitHub, você encontrará uma coleção de meus projetos, onde aplico meu conhecimento e criatividade para resolver problemas interessantes e contribuir com meu conhecimento. Estou sempre em busca de novos desafios e oportunidades para colaborar em projetos incríveis. Vamos construir algo juntos!
+Em meu GitHub, você encontrará uma coleção de meus projetos, onde aplico meu conhecimento e criatividade para resolver problemas interessantes e contribuir com meu conhecimento. Estou sempre em busca de novos desafios e oportunidades para colaborar em projetos incríveis. Vamos construir algo juntos!
 
 > #### [Portfólio](https://portfolio-valdir-martins.netlify.app)
 > #### [Linkedin](https://www.linkedin.com/in/valdiirmartiins)
