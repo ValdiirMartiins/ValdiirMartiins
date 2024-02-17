@@ -1,9 +1,7 @@
 ### `Sobre mim`
-Me chamo Valdir Martins, tenho 21 anos, tive o primeiro contato com programação aos meus 13 anos, porém comecei a me dedicar nela aos meus 17 anos, e desde então venho estudando sobre e trabalhando em projetos diferentes e de níveis diferentes. 
+Olá! Sou Valdir Martins, um entusiasta da tecnologia com paixão pelo desenvolvimento de software. Desde cedo, tenho explorado o mundo da programação, buscando constantemente aprender e aprimorar minhas habilidades. Meu foco principal está no desenvolvimento backend, especialmente com Node.js, e tenho experiência em bancos de dados SQL e NoSQL.
 
-Conhecimento em tecnologias como HTML, CSS, Javascript, Typescript, React.js, Next.js, Sass, Node.js, MongoDB, PostGreSQL e muitas outras. 
-
-Familiarizado com metodologias ágeis e organização de projetos. Conhecimento em algoritmos e estrutura de dados. Proativo e em busca de oportunidades para ampliar minha experiência como desenvolvedor.
+No GitHub, você encontrará uma coleção de meus projetos, onde aplico meu conhecimento e criatividade para resolver problemas interessantes e contribuir com meu conhecimento. Estou sempre em busca de novos desafios e oportunidades para colaborar em projetos incríveis. Vamos construir algo juntos!
 
 > #### [Portfólio](https://portfolio-valdir-martins.netlify.app)
 > #### [Linkedin](https://www.linkedin.com/in/valdiirmartiins)
