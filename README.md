@@ -21,7 +21,3 @@ Em meu GitHub, você encontrará uma coleção de meus projetos, onde aplico meu
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-
-<br>
-
-> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValdiirMartiins&theme=dark)
